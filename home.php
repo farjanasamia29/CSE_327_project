@@ -1,6 +1,7 @@
 <?php include '../includes/header.php'; ?>
 <link rel="stylesheet" href="../assets/css/home.css">
 
+
 <!-- Home Video Section -->
 <section class="home-video">
     <video autoplay muted loop class="banner-video">
@@ -8,6 +9,7 @@
         Your browser does not support the video tag.
     </video>
 </section>
+
 
 <!-- Home Banner Section (Moved Below Video) -->
 <section class="home-banner">
@@ -17,6 +19,7 @@
         <a href="../views/packages.php" class="btn">Explore Packages</a>
     </div>
 </section>
+
 
 <!-- Packages Section -->
 <section class="packages">
@@ -49,6 +52,7 @@
     </div>
 </section>
 
+
 <!-- Nearby Facilities Section -->
 <section class="facilities">
     <div class="container">
@@ -61,6 +65,7 @@
         </ul>
     </div>
 </section>
+
 
 <!-- FAQs Section -->
 <section class="faqs-home">
@@ -88,3 +93,4 @@
 </section>
 
 <?php include '../includes/footer.php'; ?>
+
