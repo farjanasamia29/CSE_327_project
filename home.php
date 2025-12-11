@@ -12,7 +12,7 @@
 <!-- Home Banner Section (Moved Below Video) -->
 <section class="home-banner">
     <div class="banner">
-        <h1>Explore The World with <span>WanderWise</span></h1>
+        <h1>Explore The World with <span>GoExplore</span></h1>
         <p>Your one-stop travel companion for seamless journeys.</p>
         <a href="../views/packages.php" class="btn">Explore Packages</a>
     </div>
@@ -69,12 +69,12 @@
         <p>Find answers to common travel questions or submit your own.</p>
         <div class="faq-cards">
             <div class="faq-card">
-                <h3>What is WanderWise?</h3>
-                <p>WanderWise is a travel platform that connects travelers with third-party service providers, offering flight bookings, hotel bookings, tour packages, and more.</p>
+                <h3>What is GoExplore?</h3>
+                <p>GoExplore is a travel platform that connects travelers with third-party service providers, offering flight bookings, hotel bookings, tour packages, and more.</p>
             </div>
 
             <div class="faq-card">
-                <h3>How do I book a tour with WanderWise?</h3>
+                <h3>How do I book a tour with GoExplore?</h3>
                 <p>To book a tour, simply visit our packages section, choose a tour that suits your preferences, and follow the instructions to book your trip.</p>
             </div>
 
@@ -86,4 +86,5 @@
         <a href="../views/faqs.php" class="btn">Read FAQs</a>
     </div>
 </section>
+
 <?php include '../includes/footer.php'; ?>
